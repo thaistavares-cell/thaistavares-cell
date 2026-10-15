@@ -4,7 +4,7 @@
 
 Estudante de Ciência da Computação no UniCEUB, com foco em sistemas, dados e arquitetura.
 
-Venho da Administração, de onde trouxe o olhar para processos e para como cada decisão afeta o todo. Hoje estudo como os sistemas funcionam por dentro, para construí-los, e não só operá-los.
+Venho da Administração, de onde trouxe o olhar para processos e para como cada decisão infuencia o todo. Hoje estudo como os sistemas funcionam por dentro, para construí-los, e não só operá-los.
 
 ## O que estou construindo
 
